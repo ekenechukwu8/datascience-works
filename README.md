@@ -23,7 +23,7 @@ This repo includes:
 I'm currently studying Data Science at Georgia State University (expected graduation: 2025). I’m passionate about using data to solve real-world problems and building machine learning models that deliver insights and impact.
 
 - 📧 Email: aaekenechukwu@gmail.com  
-- 🐙 GitHub: [@justinq8](https://github.com/justinq8)
+- 🐙 GitHub: [@justinq8](https://github.com/ekenechukwu8)
 
 ## 💼 Let’s Work Together
 
